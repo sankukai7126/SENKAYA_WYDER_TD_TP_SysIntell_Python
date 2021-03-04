@@ -5,6 +5,7 @@ from keras.optimizers import SGD
 from keras import utils
 from numpy import *
 import matplotlib.pyplot as plt
+#test github
 
 inputs = zeros((10,7))
 outputs = zeros((10,10))
